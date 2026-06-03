@@ -1,11 +1,19 @@
 ---
-title: "mywebsite"
+title: "Camryn Tobias"
+image: headshot.jpeg
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:ctobias@uoregon.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/camryntobias
 ---
 
-This is a Quarto website.
+I am a graduating senior at the University of Oregon studying Data Science with an emphasis in Geographic Information Systems and minors in Computer Science and Environmental Studies. Originally from the San Francisco Bay Area, my work sits at the intersection of spatial analysis, environmental data, and computational methods.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My research interests center on renewable energy integration and clean grid systems — using geospatial and statistical tools to understand how energy infrastructure intersects with landscape, equity, and sustainability. This fall I will be pursuing a Master of Engineering in Green Energy Systems at UCLA.
 
-```{r}
-1 + 1
-```
+This site showcases my academic portfolio from GEOG 490: Urban Demographic Analysis, where I examined population change, spatial inequality, and housing dynamics across the Austin-Round Rock Metropolitan Area using R and ACS data.
