@@ -1,5 +1,62 @@
 ---
-title: "Curriculum Vitae"
+title: "Resume"
 ---
 
-Coming soon.
+## Education
+
+**University of Oregon** — Eugene, OR *B.S. Data Science, Emphasis in Geographic Information Systems* Expected June 2026
+
+- Minors in Computer Science and Environmental Studies
+- Dean's List (3.75 GPA or higher)
+- Wildlands Studies — New Zealand, Fall 2024
+
+------------------------------------------------------------------------
+
+## Summary
+
+Dedicated Data Science major leveraging analytics to drive sustainability and environmental impact. Skilled in spatial analysis, statistical modeling, and geospatial data science, with experience applying data-driven solutions to real-world environmental challenges. Beginning a Master of Engineering in Green Energy Systems at UCLA in Fall 2026.
+
+------------------------------------------------------------------------
+
+## Technical Skills
+
+- **Programming:** Python \| C/C++ \| R \| Linux
+- **Data Science:** Data Visualization \| Decision Trees \| A/B Testing \| Pandas \| NumPy \| Statistical Modeling
+- **GIS & Spatial:** Esri ArcGIS Pro \| Arcpy \| FME \| tidycensus \| sf \| ggplot2
+
+------------------------------------------------------------------------
+
+## Experience
+
+**GIS Intern** — Rayonier, Wildlight, FL *June 2025 – September 2025*
+
+- Transformed over 5 million messy tax parcel records into a clean dataset of 53 target landowners, supporting timber acquisition, carbon credit modeling, and solar opportunity strategies
+- Built an automated data extraction tool that reduced processing time from over an hour to just minutes, improving efficiency and data security for the Carbon Team
+- Conducted cutout analysis on 16,000+ acres, providing data essential for validating growth models and long-term sustainability strategy
+
+**Office Coordinator & Outdoor Adventure Guide** — Tahoe Adventure Company, Truckee, CA *June 2024 – September 2024*
+
+- Trained new team members on safety procedures and best practices for leading successful outings
+- Facilitated programs for corporate and social groups in hiking, mountain biking, and kayaking
+- Received consistently high client ratings on post-adventure feedback surveys
+
+**Assistant Office Coordinator & Rental Attendant** — Tahoe Adventure Company, Truckee, CA *July 2023 – September 2023*
+
+- Filed California and Nevada State Parks mandatory reports
+- Managed guest bookings including intake, payment processing, and confirmation communications
+
+------------------------------------------------------------------------
+
+## Projects
+
+**John Muir Trail Interactive Web Map** Built a scrollytelling web map using Mapbox, Scrollama, Turf.js, and Chart.js to visualize elevation, terrain, water sources, and resupply points along the JMT. Designed 3D terrain views, smooth waypoint navigation, and synced elevation profiles.
+
+**New Zealand Wildlands Research Proposal** Investigated whether glacial meltwater from the Tasman Glacier causes mercury bioaccumulation in Lake Pukaki's rainbow trout. Measured heavy metal concentrations in meltwater, analyzed mercury levels in trout tissue, and evaluated ecological and fishery management implications.
+
+**Statistical Analysis & Predictive Modeling** Analyzed cardiovascular disease risk factors using hypothesis testing, A/B testing, and bootstrapping. Built a KNN classifier on movie review data achieving 80% test accuracy.
+
+------------------------------------------------------------------------
+
+## Activities & Interests
+
+Data Science Club Founding Member \| University of Oregon Freeride Snowboarding Team \| Running \| Yoga \| Level 9 Junior Olympic Gymnastics
